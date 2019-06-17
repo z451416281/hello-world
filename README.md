@@ -1,2 +1,2 @@
 # hello-world
-Firest repository
+First repository
